@@ -1,4 +1,4 @@
-# ISOM 835: Predictive Analytics Project
+Update my current Readme.md: # ISOM 835: Predictive Analytics Project
 
 ![Project Banner/Tagline](optional-banner-image-url)  
 *Short tagline (e.g., "Predicting Customer Churn with Machine Learning")*
